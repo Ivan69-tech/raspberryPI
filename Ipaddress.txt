@@ -1,0 +1,4 @@
+172.20.10.9
+ssh -p 25105 ivan@92.159.154.47
+pitunnel --port=5900 --name=vnc
+https://www.pitunnel.com/active
